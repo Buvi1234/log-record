@@ -1,0 +1,6 @@
+Creating Log Records of a Node.js Application and Debugging the Same Application
+
+1. I have created a application logrecord.js
+2. Any error occur it will stored error.txt
+3. Filesync is used to create the file and store the error
+4. It records every error store it in the error.txt file
